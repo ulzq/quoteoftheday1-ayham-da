@@ -1,0 +1,11 @@
+
+.btn{
+    margin-top: 10px;
+}
+#quote{
+    border: 1px solid black;
+    width: 800px;
+    height: 50px;
+    border-radius: 1vmin;
+    padding: 5px;
+}
